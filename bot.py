@@ -3,7 +3,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8057785864:AAG-TggKI7ILG7JLSEwAuwz6F5WH7ddTne0")
 
 API_URL = os.getenv("https://daizer.yemoney.net/api/yr/")
 API_USER = os.getenv("aleslam")
